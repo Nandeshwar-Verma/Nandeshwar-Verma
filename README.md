@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandeshwar-Verma
 - 👀 I’m interested in open source, Cloud and Azure technology
-- 🌱 I’m currently learning DevOps 
+- 🌱 DevOps Engineer
 - 💞️ I’m looking to collaborate on Python and Cloud
 - 📫 How to reach me ... nandeshwar@live.in
 
